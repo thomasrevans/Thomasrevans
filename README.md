@@ -7,4 +7,4 @@
 - 💬 **Ask me about:** Python syntax, basic Git workflows, and configuring JetBrains PyCharm with GitHub integration.
 - 📫 **How to reach me:** [t.revans2224@student.leedsbeckett.ac.uk](t.revans2224@student.leedsbeckett.ac.uk) / [My LinkedIn Profile link](https://uk.linkedin.com/in/thomas-revans-44ab49373)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** Python doesn't require semicolons or curly braces to define scope—clean indentation is the syntax!
+- ⚡ **Fun fact:** Python has nothing to do with snakes! Guido van Rossum named it after the BBC comedy troupe Monty Python's Flying Circus because he wanted a name that was short, unique, and a little irreverent.
