@@ -5,6 +5,6 @@
 - 👯 **I’m looking to collaborate on:** Introductory Python scripts, command-line utilities, and GitHub Classroom coursework workflow templates.
 - 🤔 **I’m looking for help with:** Resolving Git merge conflicts, managing PyCharm, and streamlining remote-to-local repository syncing.
 - 💬 **Ask me about:** Python syntax, basic Git workflows, and configuring JetBrains PyCharm with GitHub integration.
-- 📫 **How to reach me:** [t.revans2224@student.leedsbeckett.ac.uk](t.revans2224@student.leedsbeckett.ac.uk) / [My LinkedIn Profile URL](https://uk.linkedin.com/in/thomas-revans-44ab49373)
+- 📫 **How to reach me:** [t.revans2224@student.leedsbeckett.ac.uk](t.revans2224@student.leedsbeckett.ac.uk) / [My LinkedIn Profile link](https://uk.linkedin.com/in/thomas-revans-44ab49373)
 - 😄 **Pronouns:** [He/Him]
 - ⚡ **Fun fact:** Python doesn't require semicolons or curly braces to define scope—clean indentation is the syntax!
